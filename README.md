@@ -85,5 +85,3 @@ Hier ist dein Cheatsheet für den täglichen Umgang mit deinem Projekt:
 - **Backend neu bauen** (nach Code-Änderungen im Backend): `docker-compose up -d --build`
 
 *Hinweis: Änderungen im Frontend (z.B. `index.html`) werden sofort live im Browser sichtbar, sobald du speicherst und neu lädst. Es ist kein Docker-Neustart nötig.*
-
-test
